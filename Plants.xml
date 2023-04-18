@@ -272,14 +272,6 @@
         <AVAILABILITY>051399</AVAILABILITY>
     </PLANT>
     <PLANT>
-        <COMMON>Snakeroot</COMMON>
-        <BOTANICAL>Cimicifuga</BOTANICAL>
-        <ZONE>Annual</ZONE>
-        <LIGHT>Shade</LIGHT>
-        <PRICE>$5.63</PRICE>
-        <AVAILABILITY>071199</AVAILABILITY>
-    </PLANT>
-    <PLANT>
         <COMMON>Cardinal Flower</COMMON>
         <BOTANICAL>Lobelia cardinalis</BOTANICAL>
         <ZONE>2</ZONE>
