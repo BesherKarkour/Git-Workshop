@@ -5,3 +5,7 @@ def add_numbers(num1, num2):
 
 # function call with two values
 print (add_numbers(5, 4))
+
+def subtract_numbers(num1, num2):
+    sub = num1 - num2
+    print("Sub: ", sub)
