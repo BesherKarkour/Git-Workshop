@@ -10,3 +10,7 @@ print (add_numbers(5, 4))
 def multiply_numbers(num1, num2):
     multi = num1 * num2
     print("multi: ", multi)
+
+def subtract_numbers(num1, num2):
+    sub = num1 - num2
+    print("Sub: ", sub)
