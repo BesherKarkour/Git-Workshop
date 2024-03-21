@@ -5,3 +5,8 @@ def add_numbers(num1, num2):
 
 # function call with two values
 print (add_numbers(5, 4))
+
+
+def multiply_numbers(num1, num2):
+    multi = num1 * num2
+    print("multi: ", multi)
